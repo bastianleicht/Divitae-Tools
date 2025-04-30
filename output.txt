@@ -1,0 +1,45 @@
+[33m[nodemon] 2.0.3[39m
+[33m[nodemon] to restart at any time, enter `rs`[39m
+[33m[nodemon] watching path(s): *.*[39m
+[33m[nodemon] watching extensions: js,mjs,json[39m
+[32m[nodemon] starting `node index.js`[39m
+------------------------------------------------
+Loaded Team Command 'announce'
+Loaded Team Command 'ban'
+Loaded Team Command 'clear'
+Loaded Team Command 'giveaway'
+Loaded Team Command 'partner'
+Loaded Team Command 'poll'
+Loaded Team Command 'reroll'
+------------------------------------------------
+Loaded event 'error'
+Loaded event 'guildMemberAdd'
+Loaded event 'guildMemberRemove'
+Loaded event 'message'
+Loaded event 'ready'
+------------------------------------------------
+Loaded Owner Command 'eval'
+Loaded Owner Command 'reload'
+Loaded Owner Command 'setabout'
+Loaded Owner Command 'setrules'
+Loaded Owner Command 'stop'
+------------------------------------------------
+Loaded Test Command's 'help'
+------------------------------------------------
+Loaded Public Command '8ball'
+Loaded Public Command 'avatar'
+Loaded Public Command 'coinflip'
+Loaded Public Command 'corona'
+Loaded Public Command 'hug'
+Loaded Public Command 'info'
+Loaded Public Command 'instagram'
+Loaded Public Command 'love'
+Loaded Public Command 'meme'
+Loaded Public Command 'ping'
+Loaded Public Command 'serverinfo'
+Loaded Public Command 'uptime'
+Loaded Public Command 'userinfo'
+------------------------------------------------
+Logged in as RouterTestBot#6216!
+Running RouterTestBot Communication Server v1.2.1
+The magic happens on port 80

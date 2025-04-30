@@ -1,0 +1,44 @@
+{
+    "token": "NzU5NDY1MDA3ODU4NzEyNTk3.X2946A.X7SKsByd6HO5-tqe-mt9ToDFwmI",
+    "token2": "NzAzMzQwMzc3MTg0NDAzNDY2.XqNKxQ.7OwnzXiy2QPm3pALkpbXTPJEroQ",
+    "owner": "350618993020764161",
+    "prefix": "d2!",
+    "version": "v3.2.1",
+    "copyright": "© 2020 Divitae",
+    "serverstats": {
+        "main": {
+            "serverID": "475725569217003520",
+            "channel": "759463328480231494"
+        },
+        "valorant": {
+            "serverID": "757580521093202031",
+            "channel": "757580521302655167"
+        },
+        "overwatch": {
+            "serverID": "",
+            "channel": ""
+        },
+        "rainbow": {
+            "serverID": "",
+            "channel": ""
+        }
+    },
+    "giveaway": {
+        "everyoneMention": false,
+        "hostedBy": true
+    },
+    "webserver": {
+        "database": {
+            "host": "localhost",
+            "user": "root",
+            "password": "",
+            "dbname": "werbeclient"
+        },
+        "version": "v1.2.1",
+        "port": 80
+    },
+    "youtubenotify": {
+        "ytchannels": ["UCZcehzEgy4jW80TizP-Jq_Q"],
+        "serverchannel": "769475170003320833"
+    }
+}
